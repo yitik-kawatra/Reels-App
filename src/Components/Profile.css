@@ -1,0 +1,13 @@
+.profile-container{
+    padding: 30px;
+    background-color: wheat;
+}
+.loader{
+    position: 'absolute';
+    left: '50%';
+    top: '50%'
+  }
+  .profilevid{
+      height:40vh;
+      width: 100%;
+  }

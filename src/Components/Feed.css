@@ -1,0 +1,13 @@
+.feed-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    height: 86vh;
+}
+.upload{
+   position: relative;
+    left:70vw;
+    top:10px;
+}
